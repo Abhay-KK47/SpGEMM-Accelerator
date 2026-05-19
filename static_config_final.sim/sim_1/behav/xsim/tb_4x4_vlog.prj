@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef" \
+"../../../../static_config_final.srcs/sources_1/imports/static_controller/accel.v" \
+"../../../../static_config_final.srcs/sources_1/imports/static_controller/art.v" \
+"../../../../static_config_final.srcs/sources_1/imports/static_controller/dn.v" \
+"../../../../static_config_final.srcs/sources_1/imports/static_controller/mn.v" \
+"../../../../static_config_final.srcs/sim_1/new/tb_4x4.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

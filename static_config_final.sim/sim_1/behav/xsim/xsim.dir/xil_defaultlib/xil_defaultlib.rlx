@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/avinash/static_config_final/static_config_final.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sim_1/new/tb_2x2da.v,1773645437,verilog,,,,tb_da,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sim_1/new/tb_4x4.v,1773632846,verilog,,,,tb_4x4,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/accel.v,1773624805,verilog,,/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/art.v,,maeriAccelerator,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/art.v,1773624703,verilog,,/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/dn.v,,mkRN_CollectionBus;mkRN_DblReductionSwitch;mkRN_DblReductionSwitch_Controller;mkRN_DblReductionSwitch_Datapath;mkRN_DblReductionSwitch_EgressNIC;mkRN_DblReductionSwitch_IngressNIC;mkRN_ReductionNetwork;mkRN_SglReductionSwitch;mkRN_SglReductionSwitch_Controller;mkRN_SglReductionSwitch_Datapath;mkRN_SglReductionSwitch_EgressNIC;mkRN_SglReductionSwitch_IngressNIC;mkSC_INT16Adder,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/dn.v,1773641259,verilog,,/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/mn.v,,mkDN_DistributionNetwork;mkDN_DistributionSwitch;mkDN_DistributionSwitch_Controller;mkDN_DistributionSwitch_NIC;mkDN_EgressNIC;mkDN_IngressNIC;mkDN_SubTree;mkDN_SubTree_Controller;mkDN_SubTree_EgressNIC;mkDN_SubTree_IngressNIC,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/mn.v,1773624703,verilog,,/home/avinash/static_config_final/static_config_final.srcs/sim_1/new/tb_2x2da.v,,mkMN_MultiplierNetwork;mkMN_MultiplierSwitch,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/avinash/static_config_final/static_config_final.srcs/sources_1/imports/static_controller/tb_2x2.v,1773629965,verilog,,,,tb_2x2,,,../../../../../../../tools/Xilinx/2025.1/data/rsb/busdef,,,,,
